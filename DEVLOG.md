@@ -11,3 +11,4 @@
 - **[2026-02-03 17:10:25]** (9) refactor(bloc): migrate state handlers to immutable events
 - **[2026-02-03 20:27:48]** (10) fix(dio): handle HTTP 401 token refresh interceptor deadlock
 - **[2026-02-04 10:43:52]** (11) style(lints): configure strict flutter analysis options
+- **[2026-02-04 13:00:15]** (12) test(usecases): add unit tests for user authentication flow
