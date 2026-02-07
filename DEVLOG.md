@@ -21,3 +21,4 @@
 - **[2026-02-06 16:31:04]** (19) test(usecases): add unit tests for user authentication flow
 - **[2026-02-06 19:48:27]** (20) perf(models): generate Freezed serialization utilities
 - **[2026-02-07 11:04:31]** (21) docs(architecture): add domain layer sequence diagram
+- **[2026-02-07 14:21:54]** (22) feat(core): establish repository pattern and usecase interfaces
