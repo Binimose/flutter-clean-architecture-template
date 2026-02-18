@@ -57,3 +57,4 @@
 - **[2026-02-17 14:31:04]** (55) perf(models): generate Freezed serialization utilities
 - **[2026-02-17 17:48:27]** (56) docs(architecture): add domain layer sequence diagram
 - **[2026-02-18 10:21:54]** (57) feat(core): establish repository pattern and usecase interfaces
+- **[2026-02-18 13:38:17]** (58) refactor(bloc): migrate state handlers to immutable events
