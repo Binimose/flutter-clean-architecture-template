@@ -62,3 +62,4 @@
 - **[2026-02-18 19:12:03]** (60) style(lints): configure strict flutter analysis options
 - **[2026-02-19 11:28:07]** (61) test(usecases): add unit tests for user authentication flow
 - **[2026-02-19 14:45:30]** (62) perf(models): generate Freezed serialization utilities
+- **[2026-02-19 17:02:53]** (63) docs(architecture): add domain layer sequence diagram
