@@ -65,3 +65,4 @@
 - **[2026-02-19 17:02:53]** (63) docs(architecture): add domain layer sequence diagram
 - **[2026-02-20 10:35:20]** (64) feat(core): establish repository pattern and usecase interfaces
 - **[2026-02-20 13:52:43]** (65) refactor(bloc): migrate state handlers to immutable events
+- **[2026-02-20 16:09:06]** (66) fix(dio): handle HTTP 401 token refresh interceptor deadlock
