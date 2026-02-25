@@ -80,3 +80,4 @@
 - **[2026-02-24 13:20:35]** (78) feat(core): establish repository pattern and usecase interfaces
 - **[2026-02-24 16:37:58]** (79) refactor(bloc): migrate state handlers to immutable events
 - **[2026-02-24 19:54:21]** (80) fix(dio): handle HTTP 401 token refresh interceptor deadlock
+- **[2026-02-25 11:10:25]** (81) style(lints): configure strict flutter analysis options
