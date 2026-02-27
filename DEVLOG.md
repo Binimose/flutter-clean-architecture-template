@@ -89,3 +89,4 @@
 - **[2026-02-27 11:24:51]** (87) fix(dio): handle HTTP 401 token refresh interceptor deadlock
 - **[2026-02-27 14:41:14]** (88) style(lints): configure strict flutter analysis options
 - **[2026-02-27 17:58:37]** (89) test(usecases): add unit tests for user authentication flow
+- **[2026-02-27 20:15:00]** (90) perf(models): generate Freezed serialization utilities
